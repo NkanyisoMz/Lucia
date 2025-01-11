@@ -36,3 +36,8 @@ header {
 .nav a:hover {
     background-color: #555;
 }
+.socials a img {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
