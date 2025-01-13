@@ -171,3 +171,18 @@ header {
 .song .btn:hover {
     background-color: #ff4500;
 }
+
+.music-players {
+    margin-top: 50px;
+}
+
+.music-players h3 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    color: #444;
+}
+
+.music-players iframe {
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
