@@ -104,3 +104,10 @@ header {
 .social-links a img:hover {
     transform: scale(1.2);
 }
+
+#Music {
+    padding: 50px 20px;
+    background-color: #f9f9f9;
+    color: #333;
+    text-align: center;
+}
