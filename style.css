@@ -186,3 +186,10 @@ header {
     margin-bottom: 20px;
     border-radius: 8px;
 }
+
+#About {
+    padding: 50px 20px;
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+}
