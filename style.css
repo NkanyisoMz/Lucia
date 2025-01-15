@@ -314,3 +314,21 @@ header {
 .blog-content .btn:hover {
     background-color: #ff4500;
 }
+
+.view-all {
+    margin-top: 40px;
+}
+
+.view-all .btn {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    transition: background-color 0.3s ease;
+}
+
+.view-all .btn:hover {
+    background-color: #555;
+}
