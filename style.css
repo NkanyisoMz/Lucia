@@ -243,3 +243,15 @@ header {
     color: #333;
     text-align: center;
 }
+
+#Blog h2 {
+    font-size: 2.5rem;
+    color: #ff6600;
+    margin-bottom: 20px;
+}
+
+#Blog p {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 40px;
+}
