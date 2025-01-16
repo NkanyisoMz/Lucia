@@ -339,3 +339,9 @@ header {
     text-align: center;
     color: #333;
 }
+
+#Gallery h2 {
+    font-size: 2.5rem;
+    color: #ff6600;
+    margin-bottom: 20px;
+}
