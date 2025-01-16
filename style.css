@@ -345,3 +345,9 @@ header {
     color: #ff6600;
     margin-bottom: 20px;
 }
+
+#Gallery p {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 40px;
+}
