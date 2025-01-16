@@ -332,3 +332,10 @@ header {
 .view-all .btn:hover {
     background-color: #555;
 }
+
+#Gallery {
+    padding: 50px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+    color: #333;
+}
