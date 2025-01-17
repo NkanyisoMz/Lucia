@@ -431,3 +431,15 @@ header {
     height: auto;
     border-radius: 10px;
   }
+
+  @media (max-width: 768px) {
+    .info-container {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .info-image {
+      margin-top: 20px;
+    }
+  }
+  
