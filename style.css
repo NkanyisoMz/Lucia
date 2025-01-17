@@ -379,3 +379,8 @@ header {
     object-fit: cover;
     border-radius: 8px;
 }
+
+.info-section {
+    padding: 50px;
+    background-color: #f9f9f9;
+  }
