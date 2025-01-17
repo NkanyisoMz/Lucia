@@ -425,3 +425,9 @@ header {
     border-radius: 5px;
     cursor: pointer;
   }
+
+  .info-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
