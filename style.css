@@ -442,3 +442,18 @@ header {
 .social-media img:hover {
     transform: scale(1.2);
 }
+
+/* Additional Info Styling */
+.additional-info p {
+    font-size: 1.1rem;
+    margin: 10px 0;
+}
+
+.additional-info a {
+    color: #ff6600;
+    text-decoration: none;
+}
+
+.additional-info a:hover {
+    text-decoration: underline;
+}
