@@ -380,3 +380,10 @@ header {
     border-radius: 8px;
 }
 
+/* Info Section Styling */
+#Info {
+    padding: 50px 20px;
+    background-color: #fff5e1;
+    text-align: center;
+    color: #333;
+}
