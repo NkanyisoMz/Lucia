@@ -399,3 +399,21 @@ header {
     margin-bottom: 30px;
     color: #555;
 }
+
+.contact-details {
+    margin-bottom: 20px;
+}
+
+.contact-details p {
+    font-size: 1.1rem;
+    margin: 10px 0;
+}
+
+.contact-details a {
+    color: #ff6600;
+    text-decoration: none;
+}
+
+.contact-details a:hover {
+    text-decoration: underline;
+}
